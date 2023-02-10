@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Let's code. 
+Let's smile and code
