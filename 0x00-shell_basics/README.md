@@ -9,14 +9,13 @@ pwd
 
 **1-listit**
 #!/bin/bash
-
+ls
 
 ========
 
 **2-bring_me_home**
 
 #!/bin/bash
-
 cd ~
 
 
