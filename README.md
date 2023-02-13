@@ -1,2 +1,2 @@
-# alx-system_engineering-devops
-Let's code. 
+Shell basics
+1. Current working directory
