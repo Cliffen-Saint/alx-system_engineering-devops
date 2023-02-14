@@ -52,7 +52,7 @@ BEST="School"
 **7-create_global_variable**
 
 #!/bin/bash
-echo $(($BEST School))
+export BEST=School
 
 ==============
 
